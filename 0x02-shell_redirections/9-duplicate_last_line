@@ -1,2 +1,2 @@
 #!/bin/bash
-paste iactac iactac| tail -n 1 
+tail -n 1 iacta >>iacta 
